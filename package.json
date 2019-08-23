@@ -1,0 +1,20 @@
+{
+  "name": "build-tpl",
+  "version": "0.0.2",
+  "description": "构建插件模板",
+  "main": "index.js",
+  "author": "wangyongfeng",
+  "license": "MIT",
+  "repository": "https://github.com/imaoda/build-tpl",
+  "keywords": [
+    "cli",
+    "脚手架",
+    "构建",
+    "webpack"
+  ],
+  "dependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "webpack": "^4.39.2",
+    "webpack-merge": "^4.2.1"
+  }
+}
